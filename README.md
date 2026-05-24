@@ -1,17 +1,19 @@
-# Procédure GoPhish — Déploiement et campagne de phishing interne
+<h1 align="center">🎣 GoPhish — Phishing Interne</h1>
 
-> 🎣 Guide complet pour déployer GoPhish sur Linux et mener une campagne 
-> de phishing interne : installation, configuration SMTP, création d'un 
-> e-mail piégé type Microsoft 365, landing page et analyse des résultats.
+<p align="center">
+  Guide complet pour déployer GoPhish sur Linux et mener une campagne 
+  de phishing interne : installation, configuration SMTP, e-mail piégé 
+  Microsoft 365, landing page et analyse des résultats.
+</p>
 
-## Contexte
+<p align="center">
+  <img src="https://img.shields.io/badge/GoPhish-v0.12.1-blue" />
+  <img src="https://img.shields.io/badge/Ubuntu-24.04-orange" />
+  <img src="https://img.shields.io/badge/Langue-Français-green" />
+  <img src="https://img.shields.io/badge/Licence-MIT-lightgrey" />
+</p>
 
-Cette procédure a été réalisée dans le cadre d'une mission de sensibilisation 
-à la sécurité informatique en entreprise. L'objectif était de tester la 
-vigilance des collaborateurs face aux attaques de phishing et d'identifier 
-les axes d'amélioration.
-
-**Stack utilisée :** GoPhish · Ubuntu 24.04 · SMTP Office 365 · MariaDB
+---
 
 ## Introduction
 
